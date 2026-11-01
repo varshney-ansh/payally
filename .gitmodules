@@ -1,0 +1,6 @@
+[submodule "payally-partner"]
+	path = payally-partner
+	url = https://github.com/varshney-ansh/payally-partner.git
+[submodule "mcp-app"]
+	path = mcp-app
+	url = https://github.com/varshney-ansh/payally-mcp-app.git
