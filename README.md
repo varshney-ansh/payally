@@ -188,14 +188,6 @@ PayAlly integrates three PayPal developer platform modules:
 
 ## Testing Instructions for Judges
 
-### Demo Merchant Credentials
-
-| Field | Value |
-|---|---|
-| **URL** | [payally.world](https://payally.world) |
-| **Email** | `amitsinghwilko9@gmail.com` |
-| **Password** | `Anshvar9090@` |
-
 ### How to Test
 
 1. **Log in** to the [PayAlly Partner Portal](https://payally.world) using the demo merchant credentials above

@@ -70,12 +70,6 @@
 
 ## Testing Instructions for Judges
 
-### Demo Merchant Credentials
-
-| Field | Value |
-|---|---|
-| **Email** | amitsinghwilko9@gmail.com |
-| **Password** | Anshvar9090@ |
 
 ### How Judges Can Test
 
