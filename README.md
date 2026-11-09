@@ -1,4 +1,4 @@
-# PayAlly — Agentic Commerce for the every brand
+# PayAlly — Agentic Commerce for every brand
 > Give any brand its own AI storefront — customers browse, search, and purchase products inside ChatGPT, Claude, and Gemini, under the brand's identity, with real PayPal checkout. Deployed in 10 minutes. 2% per sale. Zero upfront cost.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
