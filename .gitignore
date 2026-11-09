@@ -1,4 +1,7 @@
-docs/*
+# Keep submission docs visible for judges; ignore internal planning docs
+docs/context/*
+docs/reports/*
+docs/video-guidlines/*
 .kiro/*
 startup secrets/*
 payally-4k.mp4
